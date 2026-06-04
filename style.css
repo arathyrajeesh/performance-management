@@ -47,7 +47,7 @@ body {
 }
 
 .home {
-    background: url('assets/home-banner-bg.jpg') center/cover no-repeat;
+    background: url('assets/home-banner-bg.jpeg') center/cover no-repeat;
     height: 400px;
     display: flex;
     justify-content: center;
